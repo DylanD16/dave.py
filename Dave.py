@@ -153,4 +153,4 @@ async def mute(ctx, member: discord.Member=None):
     await ctx.send(embed=embed)
 
 ##################
-client.run('NzI0NjAxNjYyOTMyNzc5MDI5.XvCk1g.Aqnwqn1WMlya2TOnCb_gdyV1Yys')
+client.run(TYPE_TOKEN_HERE_YES_HERE)
