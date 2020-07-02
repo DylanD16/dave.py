@@ -2,7 +2,7 @@
 
 # dave.py
 
-Dave.py is a discord bot made for my server but I have decided to share it to you. With dave you can have him as a server management bot.
+Dave.py is a discord bot made for my server but I have decided to share it to you. With dave you can have him as a server management bot.YOU WILL HAVE TO EDIT CODE IN ORDER FOR BOT TO FUNCTION MEANING YOU **WILL** NEED TO KNOW BASIC PYTHON!
 
 # Setup
 
