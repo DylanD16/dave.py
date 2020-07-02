@@ -5,7 +5,7 @@ from discord import Game
 import json
 import os
 
-client = commands.Bot(command_prefix = '-')
+client = commands.Bot(command_prefix = 'config.prefix')
 
 @client.event
 async def on_ready():
@@ -153,4 +153,4 @@ async def mute(ctx, member: discord.Member=None):
     await ctx.send(embed=embed)
 
 ##################
-client.run(TYPE_TOKEN_HERE_YES_HERE)
+client.run('config.token')
